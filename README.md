@@ -8,4 +8,4 @@ You can view the live app here:
 
 2.Student Skills Matcher App:[Click Here](https://cynbit-ai-ml-training-lxuempnkrddxbhwjh9xrun.streamlit.app/)
  
-3.Bookstore scraper App:[Click Here](https://cynbit-ai-ml-training-ibrhyhrh8nbmjrlbhb7aut.streamlit.app/)
+3.quotes_scraper App:[Click Here](https://cynbit-ai-ml-training-ibrhyhrh8nbmjrlbhb7aut.streamlit.app/)
