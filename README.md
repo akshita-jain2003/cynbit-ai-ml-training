@@ -11,3 +11,5 @@ You can view the live app here:
 3.Student Skills Matcher App:[Click Here](https://cynbit-ai-ml-training-lxuempnkrddxbhwjh9xrun.streamlit.app/)
  
 4.quotes_scraper App:[Click Here](https://cynbit-ai-ml-training-ibrhyhrh8nbmjrlbhb7aut.streamlit.app/)
+
+5.News Mood Analyzer App:[Click Here](https://cynbit-ai-ml-training-mxkp2d7dcpziknerbhv9vy.streamlit.app/)
