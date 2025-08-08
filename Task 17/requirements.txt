@@ -4,3 +4,7 @@ PyMuPDF
 pandas
 matplotlib
 wordcloud
+os
+fitz  
+re
+
