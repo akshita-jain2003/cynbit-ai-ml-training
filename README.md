@@ -16,3 +16,5 @@ You can view the live app here:
 5.Quotes App:[Click here](https://cynbit-ai-ml-training-4rpquv2o2zbwdsnzxmtl3j.streamlit.app/)
 
 6.The Hindu App:[Click here](https://cynbit-ai-ml-training-d3dnx32vmdv43vq3czrlhq.streamlit.app/)
+
+7.The Summarizer App:[Click here](https://cynbit-ai-ml-training-rumndhdxuvzuz8ttztbamm.streamlit.app/)
